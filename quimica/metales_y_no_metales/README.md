@@ -1,6 +1,6 @@
 # Metales y no metales
 
-![lorem ipsum]()
+![lorem ipsum](https://github.com/Alex819964/jquintero/blob/master/quimica/imagenes/p0b70lxh.png)
 
 ## Pregunta
 
