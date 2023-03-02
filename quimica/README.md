@@ -1,2 +1,0 @@
-# Metales y no metales
-
