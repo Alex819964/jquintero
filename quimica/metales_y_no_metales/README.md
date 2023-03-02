@@ -10,36 +10,36 @@ Elija 2 elementos metálicos y 2 no metálicos de la tabla periódica con su mas
 
 ### Hidrógeno (H)
 
-Masa atómica (A): (H) (Estándar)
-Protones (P): 1
-Neutrones (N): 0
-Número Atómico (Z): 1
+Masa atómica (A): (H) (Estándar)<br/>
+Protones (P): 1<br/>
+Neutrones (N): 0<br/>
+Número Atómico (Z): 1<br/>
 
 ### Carbón (C)
 
-Masa atómica (A): 12.0107
-Protones (P): 6
-Neutrones (N): 6
-Número Atómico (Z): 6
+Masa atómica (A): 12.0107<br/>
+Protones (P): 6<br/>
+Neutrones (N): 6<br/>
+Número Atómico (Z): 6<br/>
 
 ## No Metales
 
 ### Litio (Li)
 
-Masa atómica (A): 6.941
-Protones (P): 3
-Neutrones (N): 3
-Número Atómico (Z): 3
+Masa atómica (A): 6.941<br/>
+Protones (P): 3<br/>
+Neutrones (N): 3<br/>
+Número Atómico (Z): 3<br/>
 
 ### Cobre (Cu)
 
-Masa atómica (A): 63.546
-Protones (P): 29
-Neutrones (N): 34
-Número Atómico (Z): 29
+Masa atómica (A): 63.546<br/>
+Protones (P): 29<br/>
+Neutrones (N): 34<br/>
+Número Atómico (Z): 29<br/>
 
 ### Fuentes
 
-[periodic-table.org](https://www.periodic-table.org/)
+[periodic-table.org](https://www.periodic-table.org/)<br/>
 [bbc.co.uk/bitesize](https://www.bbc.co.uk/bitesize/topics/zv9nhcw/articles/z8qrr2p)
 
